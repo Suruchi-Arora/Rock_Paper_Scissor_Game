@@ -4,7 +4,7 @@ This is a simple Python script that allows users to play the classic game of Roc
 ## How to use
 ## Prerequisites
 • Python 3.x installed on your machine
-### Installation
+### Installation Steps
 • Clone or download the repository.
 • Navigate to the directory of the game on your local machine.
 • Open the terminal and run the following command to play the game: python rps.py
